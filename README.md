@@ -1,4 +1,4 @@
-[![MasterHead]([https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif](https://wallpaperaccess.com/full/8406708.gif))](https://github.com/RMotta-afk)
+[![MasterHead](https://wallpaperaccess.com/full/8406708.gif)](https://github.com/RMotta-afk)
 
 <h1 align="center">Hi 👋, I'm Raphael</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
