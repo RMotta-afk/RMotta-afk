@@ -1,7 +1,10 @@
-[![MasterHead](https://64.media.tumblr.com/eb1498e028d2b1ecede695a948cfc4ea/tumblr_nadi2pqZQZ1tbzfsfo1_400.gifv)](https://github.com/RMotta-afk)
+[![MasterHead](https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif)](https://github.com/RMotta-afk)
 
 <h1 align="center">Hi 👋, I'm Raphael</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
+
+img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/eb1498e028d2b1ecede695a948cfc4ea/tumblr_nadi2pqZQZ1tbzfsfo1_400.gifv"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmotta-afk&label=Profile%20views&color=0e75b6&style=flat" alt="rmotta-afk" /> </p>
 
