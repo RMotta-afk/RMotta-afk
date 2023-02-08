@@ -10,15 +10,15 @@
 
 <p align="left"> <a href="https://twitter.com/sungodex" target="blank"><img src="https://img.shields.io/twitter/follow/sungodex?logo=twitter&style=for-the-badge" alt="sungodex" /></a> </p>
 
-- 🔭 I’m currently working on **A system**
+- 🔭 I’m currently working on **a important Website**
 
-- 🌱 I’m currently learning **React, Typescript and PHP**
+- 🌱 I’m currently learning **Clod, Typescript and NodeJS**
 
-- 👯 I’m looking to collaborate on **Any project**
+- 👯 I’m looking to collaborate on **any fullstack project**
 
 - 🤝 I’m looking for help with **PHP**
 
-- 💬 Ask me about **React, Cybersecurity and JS**
+- 💬 Ask me about **React, Cybersecurity and Next**
 
 - 📫 How to reach me **raphamotta2015@gmail.com**
 
