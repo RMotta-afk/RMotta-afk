@@ -1,7 +1,7 @@
 [![MasterHead](https://wallpaperaccess.com/full/8406708.gif)](https://github.com/RMotta-afk)
 
 <h1 align="center">Hi 👋, I'm Raphael</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate Back-end developer from Brazil</h3>
 
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/eb1498e028d2b1ecede695a948cfc4ea/tumblr_nadi2pqZQZ1tbzfsfo1_400.gifv">
 
