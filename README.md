@@ -12,13 +12,13 @@
 
 - 🔭 I’m currently working on **a important Website**
 
-- 🌱 I’m currently learning **Clod, Typescript and NodeJS**
+- 🌱 I’m currently learning **Cloud**
 
 - 👯 I’m looking to collaborate on **any fullstack project**
 
-- 🤝 I’m looking for help with **PHP**
+- 🤝 I’m looking for help with **Framer Motion**
 
-- 💬 Ask me about **React, Cybersecurity and Next**
+- 💬 Ask me about **Cybersecurity!**
 
 - 📫 How to reach me **raphamotta2015@gmail.com**
 
