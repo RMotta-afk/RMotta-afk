@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/sungodex" target="blank"><img src="https://img.shields.io/twitter/follow/sungodex?logo=twitter&style=for-the-badge" alt="sungodex" /></a> </p>
 
-- 🔭 I’m currently working on **a important Website**
+- 🔭 I’m currently working on **an important Website**
 
 - 🌱 I’m currently learning **Cloud**
 
