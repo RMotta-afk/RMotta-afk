@@ -1,7 +1,7 @@
 [![MasterHead](https://wallpaperaccess.com/full/8406708.gif)](https://github.com/RMotta-afk)
 
 <h1 align="center">Hi 👋, I'm Raphael</h1>
-<h3 align="center">A passionate Back-end developer from Brazil</h3>
+<h3 align="center">C# .NET Back-End Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/eb1498e028d2b1ecede695a948cfc4ea/tumblr_nadi2pqZQZ1tbzfsfo1_400.gifv">
 
@@ -10,15 +10,15 @@
 
 <p align="left"> <a href="https://twitter.com/sungodex" target="blank"><img src="https://img.shields.io/twitter/follow/sungodex?logo=twitter&style=for-the-badge" alt="sungodex" /></a> </p>
 
-- 🔭 I’m currently working on **an important Website**
+- 🔭 I’m currently working on **a finances Software**
 
-- 🌱 I’m currently learning **Cloud**
+- 🌱 I’m currently learning **Python and Django**
 
-- 👯 I’m looking to collaborate on **any fullstack project**
+- 👯 I’m looking to collaborate on **Software Development in general**
 
-- 🤝 I’m looking for help with **Framer Motion**
+- 🤝 I’m looking for help with **Django**
 
-- 💬 Ask me about **Cybersecurity!**
+- 💬 Ask me about **.NET Framework**
 
 - 📫 How to reach me **raphamotta2015@gmail.com**
 
