@@ -10,17 +10,17 @@
 
 <p align="left"> <a href="https://twitter.com/sungodex" target="blank"><img src="https://img.shields.io/twitter/follow/sungodex?logo=twitter&style=for-the-badge" alt="sungodex" /></a> </p>
 
-- 🔭 I’m currently working on **a finances Software**
+- 🔭 I’m currently working at an **Automation app**
 
-- 🌱 I’m currently learning **Python and Django**
+- 🌱 I’m currently learning **LLMs**
 
-- 👯 I’m looking to collaborate on **Software Development in general**
+- 👯 I’m looking to collaborate at **Open Source features or apps**
 
-- 🤝 I’m looking for help with **Django**
+- 🤝 I’m looking for help with **Electron**
 
 - 💬 Ask me about **.NET Framework**
 
-- 📫 How to reach me **raphamotta2015@gmail.com**
+- 📫 How to reach me **raphmotta2023@gmail.com**
 
 - ⚡ Fun fact **I like trash movies.**
 
