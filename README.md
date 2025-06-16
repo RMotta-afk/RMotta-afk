@@ -1,7 +1,7 @@
 [![MasterHead](https://wallpaperaccess.com/full/8406708.gif)](https://github.com/RMotta-afk)
 
 <h1 align="center">Hi 👋, I'm Raphael</h1>
-<h3 align="center">.NET Developer</h3>
+<h3 align="center">Fullstack Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/eb1498e028d2b1ecede695a948cfc4ea/tumblr_nadi2pqZQZ1tbzfsfo1_400.gifv">
 
@@ -12,17 +12,11 @@
 
 - 🔭 I’m currently working at an **Automation app**
 
-- 🌱 I’m currently learning **LLMs**
+- 🌱 I’m currently learning **A.I Integration**
 
 - 👯 I’m looking to collaborate at **Open Source features or apps**
 
-- 🤝 I’m looking for help with **Electron**
-
-- 💬 Ask me about **.NET Framework**
-
 - 📫 How to reach me **raphmotta2023@gmail.com**
-
-- ⚡ Fun fact **I like trash movies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
