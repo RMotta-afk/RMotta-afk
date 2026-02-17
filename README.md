@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working at an **Automation app**
 
-- 🌱 I’m currently learning **A.I Integration**
+- 🌱 I’m currently improving myself with **Context Engineering**
 
 - 👯 I’m looking to collaborate at **Open Source features or apps**
 
