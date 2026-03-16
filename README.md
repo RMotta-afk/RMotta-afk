@@ -1,7 +1,7 @@
 [![MasterHead](https://wallpaperaccess.com/full/8406708.gif)](https://github.com/RMotta-afk)
 
 <h1 align="center">Hi 👋, I'm Raphael</h1>
-<h3 align="center">Fullstack Developer</h3>
+<h3 align="center">AI Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/eb1498e028d2b1ecede695a948cfc4ea/tumblr_nadi2pqZQZ1tbzfsfo1_400.gifv">
 
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/sungodex" target="blank"><img src="https://img.shields.io/twitter/follow/sungodex?logo=twitter&style=for-the-badge" alt="sungodex" /></a> </p>
 
-- 🔭 I’m currently working at an **Automation app**
+- 🔭 I’m currently working at an **Agentic Solution**
 
 - 🌱 I’m currently improving myself with **Context Engineering**
 
@@ -30,5 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rmotta-afk&show_icons=true&locale=en&layout=compact" alt="rmotta-afk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rmotta-afk&show_icons=true&locale=en" alt="rmotta-afk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rmotta-afk&" alt="rmotta-afk" /></p>
